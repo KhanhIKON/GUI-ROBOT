@@ -1,0 +1,49 @@
+C:\Users\Admin\Google Drive\Work\Subjects\TB Ngoai vi\Example\COM\Visual Studio\COM\COM\bin\Debug\COM.exe.config
+C:\Users\Admin\Google Drive\Work\Subjects\TB Ngoai vi\Example\COM\Visual Studio\COM\COM\bin\Debug\COM.exe
+C:\Users\Admin\Google Drive\Work\Subjects\TB Ngoai vi\Example\COM\Visual Studio\COM\COM\bin\Debug\COM.pdb
+C:\Users\Admin\Google Drive\Work\Subjects\TB Ngoai vi\Example\COM\Visual Studio\COM\COM\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Admin\Google Drive\Work\Subjects\TB Ngoai vi\Example\COM\Visual Studio\COM\COM\obj\Debug\COM.Properties.Resources.resources
+C:\Users\Admin\Google Drive\Work\Subjects\TB Ngoai vi\Example\COM\Visual Studio\COM\COM\obj\Debug\COM.csproj.GenerateResource.Cache
+C:\Users\Admin\Google Drive\Work\Subjects\TB Ngoai vi\Example\COM\Visual Studio\COM\COM\obj\Debug\COM.exe
+C:\Users\Admin\Google Drive\Work\Subjects\TB Ngoai vi\Example\COM\Visual Studio\COM\COM\obj\Debug\COM.pdb
+C:\Users\Admin\Google Drive\Work\Subjects\TB Ngoai vi\Example\COM\Visual Studio\COM\COM\obj\Debug\COM.csprojResolveAssemblyReference.cache
+C:\Users\klec271\Google Drive\Work\Subjects\TB Ngoai vi\Example\COM\Visual Studio\COM\COM\bin\Debug\COM.exe.config
+C:\Users\klec271\Google Drive\Work\Subjects\TB Ngoai vi\Example\COM\Visual Studio\COM\COM\obj\Debug\COM.exe
+C:\Users\klec271\Google Drive\Work\Subjects\TB Ngoai vi\Example\COM\Visual Studio\COM\COM\obj\Debug\COM.pdb
+C:\Users\klec271\Google Drive\Work\Subjects\TB Ngoai vi\Example\COM\Visual Studio\COM\COM\obj\Debug\COM.csprojResolveAssemblyReference.cache
+C:\Users\klec271\Google Drive\Work\Subjects\TB Ngoai vi\Example\COM\Visual Studio\COM\COM\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\klec271\Google Drive\Work\Subjects\TB Ngoai vi\Example\COM\Visual Studio\COM\COM\obj\Debug\COM.Properties.Resources.resources
+C:\Users\klec271\Google Drive\Work\Subjects\TB Ngoai vi\Example\COM\Visual Studio\COM\COM\obj\Debug\COM.csproj.GenerateResource.Cache
+C:\Users\klec271\Google Drive\Work\Subjects\TB Ngoai vi\Example\COM\Visual Studio\COM\COM\bin\Debug\COM.exe
+C:\Users\klec271\Google Drive\Work\Subjects\TB Ngoai vi\Example\COM\Visual Studio\COM\COM\bin\Debug\COM.pdb
+C:\Users\Admin\Desktop\TL Giang day\Giao Tiep DK TBNV\Code COM\COM\COM\bin\Debug\COM.exe.config
+C:\Users\Admin\Desktop\TL Giang day\Giao Tiep DK TBNV\Code COM\COM\COM\obj\Debug\COM.exe
+C:\Users\Admin\Desktop\TL Giang day\Giao Tiep DK TBNV\Code COM\COM\COM\obj\Debug\COM.pdb
+C:\Users\Admin\Desktop\TL Giang day\Giao Tiep DK TBNV\Code COM\COM\COM\bin\Debug\COM.exe
+C:\Users\Admin\Desktop\TL Giang day\Giao Tiep DK TBNV\Code COM\COM\COM\bin\Debug\COM.pdb
+C:\Users\Admin\Desktop\TL Giang day\Giao Tiep DK TBNV\Code COM\COM\COM\obj\Debug\COM.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\TL Giang day\Giao Tiep DK TBNV\Code COM\COM\COM\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Admin\Desktop\TL Giang day\Giao Tiep DK TBNV\Code COM\COM\COM\obj\Debug\COM.Properties.Resources.resources
+C:\Users\Admin\Desktop\TL Giang day\Giao Tiep DK TBNV\Code COM\COM\COM\obj\Debug\COM.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\TL Giang day\Giao Tiep DK TBNV\Code COM\COM\COM\obj\Debug\COM.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\TL Giang day\2. Giao Tiep DK TBNV\Code COM\COM\COM\bin\Debug\COM.exe.config
+C:\Users\Admin\Desktop\TL Giang day\2. Giao Tiep DK TBNV\Code COM\COM\COM\obj\Debug\COM.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\TL Giang day\2. Giao Tiep DK TBNV\Code COM\COM\COM\obj\Debug\COM.exe
+C:\Users\Admin\Desktop\TL Giang day\2. Giao Tiep DK TBNV\Code COM\COM\COM\obj\Debug\COM.pdb
+C:\Users\Admin\Desktop\TL Giang day\2. Giao Tiep DK TBNV\Code COM\COM\COM\bin\Debug\COM.exe
+C:\Users\Admin\Desktop\TL Giang day\2. Giao Tiep DK TBNV\Code COM\COM\COM\bin\Debug\COM.pdb
+C:\Users\Admin\Desktop\TL Giang day\2. Giao Tiep DK TBNV\Code COM\COM\COM\obj\Debug\COM.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\TL Giang day\2. Giao Tiep DK TBNV\Code COM\COM\COM\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Admin\Desktop\TL Giang day\2. Giao Tiep DK TBNV\Code COM\COM\COM\obj\Debug\COM.Properties.Resources.resources
+C:\Users\Admin\Desktop\TL Giang day\2. Giao Tiep DK TBNV\Code COM\COM\COM\obj\Debug\COM.csproj.GenerateResource.Cache
+C:\Users\klec369\Desktop\Camera\Code GUI-Control\GUI_Control\COM\COM\bin\Debug\COM.exe.config
+C:\Users\klec369\Desktop\Camera\Code GUI-Control\GUI_Control\COM\COM\bin\Debug\COM.exe
+C:\Users\klec369\Desktop\Camera\Code GUI-Control\GUI_Control\COM\COM\bin\Debug\COM.pdb
+C:\Users\klec369\Desktop\Camera\Code GUI-Control\GUI_Control\COM\COM\obj\Debug\COM.csproj.ResolveComReference.cache
+C:\Users\klec369\Desktop\Camera\Code GUI-Control\GUI_Control\COM\COM\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\klec369\Desktop\Camera\Code GUI-Control\GUI_Control\COM\COM\obj\Debug\COM.Properties.Resources.resources
+C:\Users\klec369\Desktop\Camera\Code GUI-Control\GUI_Control\COM\COM\obj\Debug\COM.csproj.GenerateResource.cache
+C:\Users\klec369\Desktop\Camera\Code GUI-Control\GUI_Control\COM\COM\obj\Debug\COM.csproj.CoreCompileInputs.cache
+C:\Users\klec369\Desktop\Camera\Code GUI-Control\GUI_Control\COM\COM\obj\Debug\COM.exe
+C:\Users\klec369\Desktop\Camera\Code GUI-Control\GUI_Control\COM\COM\obj\Debug\COM.pdb
+C:\Users\klec369\Desktop\Camera\Code GUI-Control\GUI_Control\COM\COM\obj\Debug\COM.csproj.AssemblyReference.cache

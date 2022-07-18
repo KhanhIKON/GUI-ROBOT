@@ -1,0 +1,11 @@
+C:\Users\klec369\Desktop\Camera\Code GUI-Control\GUI_Control\COM\COM\bin\Debug\VISTA ROBOT.exe.config
+C:\Users\klec369\Desktop\Camera\Code GUI-Control\GUI_Control\COM\COM\bin\Debug\VISTA ROBOT.exe
+C:\Users\klec369\Desktop\Camera\Code GUI-Control\GUI_Control\COM\COM\bin\Debug\VISTA ROBOT.pdb
+C:\Users\klec369\Desktop\Camera\Code GUI-Control\GUI_Control\COM\COM\obj\Debug\VISTA ROBOT.csproj.ResolveComReference.cache
+C:\Users\klec369\Desktop\Camera\Code GUI-Control\GUI_Control\COM\COM\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\klec369\Desktop\Camera\Code GUI-Control\GUI_Control\COM\COM\obj\Debug\COM.Properties.Resources.resources
+C:\Users\klec369\Desktop\Camera\Code GUI-Control\GUI_Control\COM\COM\obj\Debug\VISTA ROBOT.csproj.GenerateResource.cache
+C:\Users\klec369\Desktop\Camera\Code GUI-Control\GUI_Control\COM\COM\obj\Debug\VISTA ROBOT.csproj.CoreCompileInputs.cache
+C:\Users\klec369\Desktop\Camera\Code GUI-Control\GUI_Control\COM\COM\obj\Debug\VISTA ROBOT.exe
+C:\Users\klec369\Desktop\Camera\Code GUI-Control\GUI_Control\COM\COM\obj\Debug\VISTA ROBOT.pdb
+C:\Users\klec369\Desktop\Camera\Code GUI-Control\GUI_Control\COM\COM\obj\Debug\VISTA ROBOT.csproj.AssemblyReference.cache
